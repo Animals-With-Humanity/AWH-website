@@ -1,0 +1,61 @@
+.hero {
+    background-image: url("https://htmlcolorcodes.com/assets/images/colors/gray-color-solid-background-1920x1080.png");
+    background-color: #cccccc;
+    margin:0;
+    height: 90vh;
+    
+   }
+
+nav {
+    position:fixed
+}
+
+
+.about-section {
+    background: linear-gradient(rgba(131, 219, 245, 0.7), rgba(119, 196, 248, 0.7)), url("https://htmlcolorcodes.com/assets/images/colors/gray-color-solid-background-1920x1080.png") center center no-repeat;
+    height: 90vh;
+}
+
+.about-detail {
+    padding: 8%;
+    padding-left: 10%;
+    width:50%
+}
+
+.about-heading {
+    font-size: 70px;
+}
+
+.about-heading-2 {
+    font-size: 40px;
+}
+
+.help {
+    height: 90vh;
+}
+
+.footer-img {
+    background: url("./footer.png") no-repeat;
+    height: 110vh;
+    background-size: cover;
+}
+
+.yellow-box {
+background-color: #fff500;
+/* top: -500px; */
+height: 30vh;
+/* position: fixed; */
+width: 100%;
+/* z-index: 9999999999; */
+    /* bottom: 0; */
+}
+
+.fsbig {
+    font-size: 100px;
+    color: #fff;
+}
+
+.fsbig2 {
+    font-size: 40px;
+    color: #fff;
+}
