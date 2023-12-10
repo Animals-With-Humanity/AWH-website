@@ -1,0 +1,87 @@
+.hero {
+    background-image: url("./images/1.png");
+    background-color: #d5eb0f;
+    margin:0;
+    height: 110vh;
+    border-bottom-right-radius: 30% 300px;
+    /* margin-bottom: 500px; */
+    /* border-bottom-right-radius: 30% 10px; */
+   }
+
+nav {
+    position:fixed
+}
+
+
+.about-section {
+    background: linear-gradient(rgba(131, 219, 245, 0.7), rgba(119, 196, 248, 0.7)), url("./images/second.png") center center no-repeat;
+    height: 90vh;
+    background-size: cover;
+}
+
+.about-detail {
+    padding: 8%;
+    padding-left: 10%;
+    width:50%
+}
+
+.about-heading {
+    font-size: 70px;
+}
+
+.about-heading-2 {
+    font-size: 40px;
+}
+
+.help {
+    height: 70vh;
+}
+
+.footer-img {
+    background: url("./footer.png") no-repeat;
+    height: 110vh;
+    background-size: cover;
+}
+
+.yellow-box {
+background-color: #fff500;
+/* top: -500px; */
+height: 20vh;
+/* position: fixed; */
+width: 100%;
+/* z-index: 9999999999; */
+    /* bottom: 0; */
+}
+
+
+.our-work {
+    border-top-right-radius: 30% 300px;
+}
+.fsbig {
+    font-size: 100px;
+    color: #fff;
+}
+
+.fsbig2 {
+    font-size: 40px;
+    color: #fff;
+}
+
+.logo {
+    width: 20%;
+    height: 20vh;
+    background-color: #fff;
+    float: right;
+    border-radius: 0 0 20px 20px;
+    top: 0;
+}
+
+.nav {
+    margin-bottom: 0;
+    --bs-navbar-padding-y:0;
+}
+
+.logo-img {
+    width:200px;
+    margin:auto
+}
