@@ -39,8 +39,8 @@ nav {
 
 .footer-img {
     background: url("./footer.png") no-repeat;
-    height: 45vh;
-    width: 155vh;
+    height: 55vh;
+    width: auto;
     background-size: cover;
 }
 
